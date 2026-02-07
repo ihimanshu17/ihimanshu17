@@ -34,3 +34,19 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,html,css,bootstrap,git,aws,c" />
 </p>
+
+---
+
+### 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihimanshu17&theme=default&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ihimanshu17/ihimanshu17/output/github-contribution-grid-snake.svg" />
+</p>
