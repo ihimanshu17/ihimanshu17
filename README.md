@@ -1,52 +1,50 @@
-<h1 align="center">Hi 👋, I'm Himanshu Upadhyay</h1>
-<h3 align="center">🚀 Passionate Software Developer from India</h3>
+<h1 align="center">Hi, I'm Himanshu Upadhyay</h1>
+<h3 align="center">💻 Software Developer | India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihimanshu17&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ihimanshu17&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **Plant Vigil**
+### ⚡ About Me
+- 🔭 Working on **Plant Vigil**
 - 🌱 Learning **Backend Development**
-- 👨‍💻 Portfolio:  
-  👉 https://portfolio-main-git-main-ihimanshu17s-projects.vercel.app/
-- 📫 Reach me at: **workwithhimanshuon@gmail.com**
-- 📄 Resume:  
-  👉 https://drive.google.com/file/d/1cWgeFGLs1RDYr8y-LSypJEvpY6ZFpQp8/view
+- 👨‍💻 Portfolio →  
+  https://portfolio-main-git-main-ihimanshu17s-projects.vercel.app/
+- 📫 Email → **workwithhimanshuon@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/ihimanshu17" target="_blank">
+<a href="https://linkedin.com/in/ihimanshu17">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://instagram.com/_ihimanshu17_" target="_blank">
+<a href="https://instagram.com/_ihimanshu17_">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
+### 🛠 Tech Stack
+<p>
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,html,css,bootstrap,git,aws,c" />
 </p>
 
 ---
 
-### 📈 Contribution Streak
+### 📈 GitHub Activity Graph (Auto)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihimanshu17&theme=default&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihimanshu17&theme=github-compact" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 💡 Random Quote
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ihimanshu17/ihimanshu17/output/github-contribution-grid-snake.svg" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
 </p>
