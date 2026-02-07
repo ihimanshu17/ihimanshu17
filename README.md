@@ -26,9 +26,6 @@
 <a href="https://instagram.com/_ihimanshu17_" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
-<a href="https://www.topcoder.com/members/208020" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/topcoder.svg" height="40"/>
-</a>
 </p>
 
 ---
@@ -36,22 +33,4 @@
 ### 🛠️ Languages & Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,html,css,bootstrap,git,aws,c" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihimanshu17&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimanshu17&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ihimanshu17&theme=onedark" />
 </p>
