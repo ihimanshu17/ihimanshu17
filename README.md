@@ -10,8 +10,7 @@
 ### ⚡ About Me
 - 🔭 Working on **Plant Vigil**
 - 🌱 Learning **Backend Development**
-- 👨‍💻 Portfolio →  
-  https://portfolio-main-git-main-ihimanshu17s-projects.vercel.app/
+- 👨‍💻 Portfolio → https://portfolio-main-git-main-ihimanshu17s-projects.vercel.app/
 - 📫 Email → **workwithhimanshuon@gmail.com**
 
 ---
