@@ -108,43 +108,6 @@ A full-stack platform that analyzes resumes, evaluates ATS readiness, compares r
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ihimanshu17&show_icons=true&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihimanshu17&layout=compact&hide_border=true"
-    height="170"
-  />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=ihimanshu17&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ihimanshu17&theme=github-compact&hide_border=true"
-    width="95%"
-  />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 🥇 **All India Rank 99** — Coding Ninjas Premier League
