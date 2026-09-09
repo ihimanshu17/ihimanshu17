@@ -28,7 +28,7 @@
 
 I'm a **Computer Science & Engineering graduate specializing in Artificial Intelligence**, interested in building practical software products that combine **Full-Stack Development and AI**.
 
-- 🔭 Currently building and improving **ResuMate AI**
+- 🔭 Recently built and improving **SYNCly**
 - 💡 Interested in **Software Engineering, Full-Stack Development & AI**
 - 🧠 Exploring **Generative AI and Backend Development**
 - 🛠️ I enjoy turning ideas into **working products**
